@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+google-ai-gemini     
+python-dotenv
+httpx
+pytest
