@@ -1,6 +1,8 @@
 fastapi
+pydantic-settings
 uvicorn[standard]
-google-ai-gemini     
+google-genai
+groq
 python-dotenv
 httpx
 pytest
