@@ -2,7 +2,7 @@
 
 ## Descrição
 
-API que integra com Gemini e Groq para responder perguntas sobre produtos Petlove.
+API que integra com Gemini e Groq para responder perguntas sobre produtos.
 
 ## Tecnologias
 
