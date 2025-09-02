@@ -1,4 +1,4 @@
-# ssistente de Vendas para petshop
+# Assistente de Vendas para petshop
 
 ## Descrição
 
