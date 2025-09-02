@@ -1,4 +1,4 @@
-# Petlove Assistente de Vendas
+# ssistente de Vendas para petshop
 
 ## Descrição
 
